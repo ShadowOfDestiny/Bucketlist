@@ -24,7 +24,7 @@ function bucketlist_info()
         "name"          => "Charakter Bucketlist",
         "description"   => "Ermöglicht Benutzern, eine Bucketlist für ihre Charaktere im UCP zu verwalten, die in einem Forum gepostet wird. Integriert MentionMe und MyAlerts.",
         "website"       => "https://shadow.or.at",
-        "author"        => "Dani & Gemini",
+        "author"        => "Dani",
         "authorsite"    => "https://github.com/ShadowOfDestiny",
         "version"       => "1.1",
         "compatibility" => "18*"
